@@ -1,4 +1,4 @@
-global.konek = "6285216955233"
+global.konek = "79221988650"
 global.username = "KURUMI"
 global.password = "REREZZ"
 global.salurann = "https://whatsapp.com/channel/0029Vat4lwpKLaHoS0MAwj3Z"
